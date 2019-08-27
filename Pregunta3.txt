@@ -1,0 +1,4 @@
+MULTIPLEXACIÓN DE HTTP2
+
+Es más rápido la respuesta de envío de request y la recepción de la información.
+
